@@ -2,15 +2,16 @@
 
 ### 什麼東西應該放在 View
 
-- [什麼是 helper](/wiki/what-is-helper)
-- [什麼是 partial](what-is-collection-of-partial)
-- [什麼是 collection partial](what-is-collection-of-partial)
-- [什麼東西應該放在 partial / 什麼東西應該放在 helper](/wiki/partial-or-helper)
-- [yield in view](/wiki/yield-in-view)
-- [不應該放在 view 裡的東西](/wiki/things-shouldnt-in-view)
-- [form](/wiki/what-is-form)
-- [essential helpers](/wiki/essential-helpers)
+- [[什麼是 helper|what-is-helper]]
+- [[什麼是 partial](what-is-collection-of-partial]]
+- [[什麼是 collection partial](what-is-collection-of-partial]]
+- [[什麼東西應該放在 partial / 什麼東西應該放在 helper|partial-or-helper]]
+- [[yield in view|yield-in-view]]
+- [[不應該放在 view 裡的東西|things-shouldnt-in-view]]
+- [[form|what-is-form]]
+- [[essential helpers|essential-helpers]]
 - helper pattern's
+
 
 ### 什麼東西應該放在 controller
 - [before_filter](/wiki/filters-before-filter)
