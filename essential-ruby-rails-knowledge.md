@@ -39,12 +39,12 @@
 
 ## 2. 關於 Rails
 
-* [RESTful](/wiki/what-is-restful)
-* [Routing](/wiki/what-is-routing)
-* [Rack](/wiki/what-is-rack)
-* [Bundler](/wiki/what-is-bundler)
-* [Unobtrusive Javascript](/wiki/what-is-unobtrusive-javascript)
-* [I18n](/wiki/what-is-i18n)
+* [[RESTful|what-is-restful]]
+* [[Routing|what-is-routing]]
+* [[Rack|what-is-rack]]
+* [[Bundler|what-is-bundler]]
+* [[Unobtrusive Javascript|what-is-unobtrusive-javascript]]
+* [[I18n|what-is-i18n]]
 
 
 ## 3. 關於 Ruby
