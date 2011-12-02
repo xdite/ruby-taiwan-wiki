@@ -1,3 +1,5 @@
+# Custom Generators
+
 ## 說明
 
 自從 Rails 3.0 之後，Generators 寫作方式開始基於 [Thor](https://github.com/wycats/thor)。Thor 提供了一系列利於處理檔案的 API 。 
