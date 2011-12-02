@@ -25,17 +25,17 @@
 
 ### 什麼東西應該放在 model
 
-- [has_many :through](/wiki/has-many-through)
-- [validation](/wiki/what-is-validation)
-- [scope](/wiki/what-is-scope)
-- [ids](/wiki/what-is-ids)
-- [collect and id](/wiki/collect-and-id)
-- [includes](/wiki/what-is-includes)
-- [counter_cache](/wiki/what-is-counter-cache)
-- [STI](/wiki/what-is-sti)
-- [Polymorphic Assoiciaion](/wiki/polymorphic-assoiciaion)
-- [不要把該放在 helper 的東西放在 model 裡](/wiki/dont-put-helper-in-model)
-- [refactor controller code to model](refactor-controller-code-to-model)
+- [[has_many :through|has-many-through]]
+- [[validation|what-is-validation]]
+- [[scope|what-is-scope]]
+- [[ids|what-is-ids]]
+- [[collect and id|collect-and-id]]
+- [[includes|what-is-includes]]
+- [[counter_cache|what-is-counter-cache]]
+- [[STI|what-is-sti]]
+- [[Polymorphic Assoiciaion|polymorphic-assoiciaion]]
+- [[不要把該放在 helper 的東西放在 model 裡|dont-put-helper-in-model]]
+- [[refactor controller code to model](refactor-controller-code-to-model]]
 
 ## 2. 關於 Rails
 
