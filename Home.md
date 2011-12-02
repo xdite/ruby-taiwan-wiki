@@ -1,3 +1,5 @@
+全部頁面為 Markdown，語法請參考 <https://github.com/github/gollum>
+
 ## 待補完
 
 * [[Rails 主機，VPS，域名商推薦|rails_hosting]]
