@@ -64,5 +64,5 @@
 
 ## 4. Advanced Techniques
 
-* [Custom Generators](/wiki/custom-generators)
-* [Packing Gems](/wiki/packing-gems)
+* [[Custom Generators|custom-generators]]
+* [[Packing Gems|wiki/packing-gems]]
