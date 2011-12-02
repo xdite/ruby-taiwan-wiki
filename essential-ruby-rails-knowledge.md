@@ -14,14 +14,14 @@
 
 
 ### 什麼東西應該放在 controller
-- [before_filter](/wiki/filters-before-filter)
-- [render template](render-template)
-- [render layout](render-layout)
-- [render text](/wiki/render-text)
-- [render options](/wiki/render-options)
-- [redirect_to 與 render](/wiki/redirect-to-and-render)
-- [respond_to 與 respond_with](/wiki/respond-to-and-respond-with)
-- [builders](/wiki/builders)
+- [before_filter|filters-before-filter]]
+- [render template](render-template]]
+- [render layout](render-layout]]
+- [render text|render-text]]
+- [render options|render-options]]
+- [redirect_to 與 render|redirect-to-and-render]]
+- [respond_to 與 respond_with|respond-to-and-respond-with]]
+- [builders|builders]]
 
 ### 什麼東西應該放在 model
 
