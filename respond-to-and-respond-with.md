@@ -1,4 +1,4 @@
-# respond_to 與 respond_with
+# respond_to 與 respond\_with
 
 ## 說明
 
