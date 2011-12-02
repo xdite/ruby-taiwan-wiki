@@ -5,6 +5,6 @@
 * [[新手進階知識|essential-ruby-rails-knowledge]]
 
 ## 台灣使用 Ruby 狀況
-[[用 Ruby 的公司列表|company_list]]
-[[用 Ruby 開發的網站|powered_sites]]
-[[Ruby 開發者 Blog 以及 Twitter 目錄|rubyists]]
+* [[用 Ruby 的公司列表|company_list]]
+* [[用 Ruby 開發的網站|powered_sites]]
+* [[Ruby 開發者 Blog 以及 Twitter 目錄|rubyists]]
