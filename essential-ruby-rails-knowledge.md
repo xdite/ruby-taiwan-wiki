@@ -35,7 +35,7 @@
 - [[STI|what-is-sti]]
 - [[Polymorphic Assoiciaion|polymorphic-assoiciaion]]
 - [[不要把該放在 helper 的東西放在 model 裡|dont-put-helper-in-model]]
-- [[refactor controller code to model](refactor-controller-code-to-model]]
+- [[refactor controller code to modelrefactor-controller-code-to-model]]
 
 ## 2. 關於 Rails
 
