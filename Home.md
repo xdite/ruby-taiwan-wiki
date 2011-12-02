@@ -1,4 +1,4 @@
-全部頁面為 Markdown，語法請參考 <https://github.com/github/gollum>
+全部頁面皆為 Markdown，進階語法請參考 <https://github.com/github/gollum>
 
 ## 待補完
 
