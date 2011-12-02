@@ -3,7 +3,7 @@
 ### 什麼東西應該放在 View
 
 - [[什麼是 helper|what-is-helper]]
-- [[什麼是 partial](what-is-collection-of-partial]]
+- [[什麼是 partial(what-is-collection-of-partial]]
 - [[什麼是 collection partial](what-is-collection-of-partial]]
 - [[什麼東西應該放在 partial / 什麼東西應該放在 helper|partial-or-helper]]
 - [[yield in view|yield-in-view]]
