@@ -15,8 +15,8 @@
 
 ### 什麼東西應該放在 controller
 - [[before_filter|filters-before-filter]]
-- [[render template](render-template]]
-- [[render layout](render-layout]]
+- [[render template|render-template]]
+- [[render layout|render-layout]]
 - [[render text|render-text]]
 - [[render options|render-options]]
 - [[redirect_to 與 render|redirect-to-and-render]]
