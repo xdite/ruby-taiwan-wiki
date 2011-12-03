@@ -1,3 +1,5 @@
+# 遠端佈署最佳實踐
+
 本文由 xdite 授權提供，為 [Rails 101](http://rails-101.logdown.com/) 第七章部分內容
 
 # 第一部分
