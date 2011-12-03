@@ -115,6 +115,8 @@
 
 再修改 `lib/generators/initializer/initializer_generator.rb` 加入一行 `copy_file`。
 
+``` ruby
+
         class InitializerGenerator < Rails::Generators::NamedBase
           source_root File.expand_path("../templates", __FILE__)
 
@@ -122,6 +124,7 @@
             copy_file "initializer.rb", "config/initializers/#{file_name}.rb"
           end
         end
+```
 
 > Note : `copy_file` 是 Thor 的 API
 
@@ -141,6 +144,7 @@ Thor 提供了很多客製 [API](http://rdoc.info/github/wycats/thor/master/Thor
 
 若要在 Gemfile 下自動新增 dependency，新加入  `add_rspec_and_device_to_gemfile` 這個 method，使用 `gem` 這個 Thor API。
 
+``` ruby
         class InitializerGenerator < Rails::Generators::NamedBase
           source_root File.expand_path("../templates", __FILE__)
 
@@ -153,13 +157,16 @@ Thor 提供了很多客製 [API](http://rdoc.info/github/wycats/thor/master/Thor
             gem("devise", "1.1.5")
           end
         end
+```
 
 執行： `$ rails generate initializer api_key`
 
 Rails project 下的 Gemfile 最底端就會自動產生這兩行：
 
+``` ruby
         gem "rspec", "2.1.0", :group => "test"
         gem "devise", "1.1.5"
+```
 
 #### application
 
