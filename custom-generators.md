@@ -227,6 +227,8 @@ TODO
 ```
 
 替換成
+
+``` ruby
         module MyPlugin
           module Generators
             class ConfigGenerator < Rails::Generators::Base
@@ -234,6 +236,7 @@ TODO
             end
           end
         end
+```
 
 這樣就能造出
 
