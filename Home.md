@@ -8,3 +8,5 @@
 
 ## 台灣使用 Ruby 狀況
 * [[Ruby 開發者 Blog 以及 Twitter 目錄|rubyists]]
+
+* [[Essetian Rails Design Pattern| essential-rails-design-pattern]]
